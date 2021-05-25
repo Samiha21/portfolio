@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://i.ytimg.com/vi/7dkrwPrmH-Y/maxresdefault.jpg);
+    background-size: cover;
+    
+
+}
+.jumbotron{
+    background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/13/81/eb/d7/indigo-blue.jpg);
+    color: white;
+    
+}
+footer {
+    position: block;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    height: 10%;
+  }
+  .pic{
+      height: 30px;
+  }
+  img{
+      width: 100%;
+  }
+  
